@@ -42,3 +42,4 @@ const perguntas = [
         ]
     }
 ];
+let atual = 0;
